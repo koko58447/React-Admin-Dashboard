@@ -1,0 +1,5 @@
+{
+  "name": "POS Admin Dashboard",
+  "description": "A modern, responsive admin dashboard for a Point of Sale (POS) system, featuring navigation for sales, purchases, expenses, and financial management.",
+  "requestFramePermissions": []
+}
